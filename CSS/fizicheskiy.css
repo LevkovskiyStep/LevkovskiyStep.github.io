@@ -1,0 +1,42 @@
+h1{
+  border-bottom: 1px solid#ccc;
+  font-family: Georgia;
+  font-size: 28px;
+  line-height: 37px;
+  font-style: normal;
+  margin-bottom: 5px;
+}
+#idматериал{
+  font-size: 12px;
+  line-height: 20px;
+  margin-top: 3px;
+}
+body{
+  font-family: sans-serif;
+  font-size: 14px;
+  line-height: 22px;
+}
+span{
+  color:red;
+}
+.class1{
+  font-family: sans-serif;
+  font-size: 13px;
+  line-height: 17px;
+  font-weight: bold;
+}
+div{
+  padding:10px;
+  border:1px solid rgb(195, 195, 218);
+  width: max-content;
+  background-color: rgb(235, 238, 237);
+  color:blue;
+}
+.class2{
+  border-bottom: 1px solid#ccc;
+  font-family: Georgia;
+  font-size: 21px;
+  line-height: 27px;
+  font-style: normal;
+  margin-bottom: 5px;
+}

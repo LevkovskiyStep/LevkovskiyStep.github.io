@@ -1,0 +1,26 @@
+h1{
+  border-bottom: 1px solid#ccc;
+  font-family: Georgia;
+  font-size: 28px;
+  line-height: 37px;
+  font-style: normal;
+  margin-bottom: 5px;
+}
+#idматериал{
+  font-size: 12px;
+  line-height: 20px;
+  margin-top: 3px;
+}
+body{
+  font-family: sans-serif;
+  font-size: 14px;
+  line-height: 22px;
+}
+.classЗаголовок{
+  border-bottom: 1px solid#ccc;
+  font-family: Georgia;
+  font-size: 21px;
+  line-height: 27px;
+  font-style: normal;
+  margin-bottom: 5px;
+}
