@@ -1,2 +1,0 @@
-# LevkovskiyStep.github.io
-homework
